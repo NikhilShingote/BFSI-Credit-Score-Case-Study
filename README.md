@@ -34,6 +34,6 @@ Steps Followed:
 
 Details of file given:
 
-BFSI Credit Score Case Study.ipynb : The python file showing coding and data analysis
-BFSI Credit Score Case Study.pdf : Final Presentation
-README.md file.
+- BFSI Credit Score Case Study.ipynb : The python file showing coding and data analysis
+- BFSI Credit Score Case Study.pdf : Final Presentation
+- README.md file.
